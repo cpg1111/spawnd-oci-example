@@ -16,7 +16,7 @@
             "TERM=xterm"
         ],
         "cwd": "/",
-        "args:" [
+        "args": [
             "python",
             "hello.py"
         ],
